@@ -1,6 +1,6 @@
 # 🎮 Game Pong
 
-Game pong desenvolvido em na linguagem Java<p>
+Game pong desenvolvido utilizando a linguagem Java<p>
   
 <br/>
 
